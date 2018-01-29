@@ -75,3 +75,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+theme: jekyll-theme-time-machine
