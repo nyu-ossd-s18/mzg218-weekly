@@ -76,4 +76,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
