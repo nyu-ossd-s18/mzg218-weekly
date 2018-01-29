@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Marcus Zaeyen Guimaraes
+NYU Senior, class of 2018
+Game Developer, Programmer, Designer
+Administrator and Content Developer for NYU's Future Reality Lab
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I make social games that use technology to examine and reshape our relationships with each other.
 
