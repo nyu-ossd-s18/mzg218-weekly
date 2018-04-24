@@ -17,3 +17,4 @@
 | 12     | [Pull Request](https://github.com/photonstorm/phaser3-examples/pull/132) | Other |
 | 13     | [Pull Request](https://github.com/photonstorm/phaser3-examples/pull/143) | Other |
 | 13     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/137) | Other |
+| 13     | [Comment](https://github.com/photonstorm/phaser3-examples/issues/65) | Other |
