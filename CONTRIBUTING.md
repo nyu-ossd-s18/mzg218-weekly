@@ -4,8 +4,8 @@
 | 2 | 9      | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
 | 3 | 10     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
 | 4 | 11     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
-| 5 | 11     | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
-| 6 | Finals | [Comment](https://github.com/joannakl/cs480_s18/issues/25) | Course Website |
+| 5 | Finals | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
+| 6 | 11     | [Comment](https://github.com/joannakl/cs480_s18/issues/25) | Course Website |
 | 7 | 4      | [Comment](https://github.com/joannakl/cs480_s18/issues/77) | Course Website |
 | 8 | 4      | [Pull Request](https://github.com/joannakl/cs480_s18/pull/83) | Course Website |
 | 9 | 4      | [Comment](https://github.com/joannakl/cs480_s18/pull/83) | Course Website |
