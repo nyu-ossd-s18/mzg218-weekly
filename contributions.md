@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contributions
+permalink: /contributions/
+---
+
 | Contribution # | Week # | Contribution | Contribution Type |
 | -------------- | ------ | ------------ | ----------------- |
 | 1 | 3      | [Article edit](https://en.wikipedia.org/wiki/Special:Contributions/BaronMarquis) | Wikipedia |
